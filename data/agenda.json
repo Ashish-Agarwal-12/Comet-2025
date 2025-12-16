@@ -1,0 +1,81 @@
+{
+  "agenda": [
+    {
+      "id": 1,
+      "time": "09:00 AM - 09:30 AM",
+      "title": "Welcome & Icebreaker",
+      "description": "Kick off CoMeT2025 with energizing introductions and interactive activities to connect with fellow leaders",
+      "speaker": ""
+    },
+    {
+      "id": 2,
+      "time": "09:30 AM - 10:00 AM",
+      "title": "CMT Vision and Mission",
+      "description": "Unveiling our strategic roadmap and charting the course for CMT's transformative journey ahead",
+      "speaker": "Chief Executive Officer"
+    },
+    {
+      "id": 3,
+      "time": "10:00 AM - 10:30 AM",
+      "title": "CM-SBU Presentations",
+      "description": "Showcasing breakthrough innovations and success stories from our Cloud & Manufacturing Strategic Business Unit",
+      "speaker": "Technology Leaders"
+    },
+    {
+      "id": 4,
+      "time": "10:30 AM - 11:00 AM",
+      "title": "Fun Event",
+      "description": "Unwind and bond with colleagues through exciting team activities and creative challenges",
+      "speaker": ""
+    },
+    {
+      "id": 5,
+      "time": "11:15 AM - 11:45 AM",
+      "title": "Tech - SBU Presentations",
+      "description": "Exploring cutting-edge technology initiatives and digital solutions powering our clients' success",
+      "speaker": "Technology Leaders"
+    },
+    {
+      "id": 6,
+      "time": "11:45 AM - 12:15 PM",
+      "title": "Awards",
+      "description": "Honoring outstanding achievements and recognizing the exceptional contributions of our star performers",
+      "speaker": "Executive Leadership"
+    },
+    {
+      "id": 7,
+      "time": "12:15 PM - 01:15 PM",
+      "title": "Lunch Break",
+      "description": "Enjoy a gourmet dining experience while networking with peers and building meaningful connections",
+      "speaker": ""
+    },
+    {
+      "id": 8,
+      "time": "01:30 PM - 02:00 PM",
+      "title": "Velu's Address",
+      "description": "An inspiring keynote sharing leadership insights, organizational vision, and the path to excellence",
+      "speaker": "Velu"
+    },
+    {
+      "id": 9,
+      "time": "02:30 PM - 03:00 PM",
+      "title": "Fireside Chat with Leaders",
+      "description": "Candid conversations with senior executives on leadership lessons, career growth, and industry perspectives",
+      "speaker": "Senior Leadership Panel"
+    },
+    {
+      "id": 10,
+      "time": "03:00 PM - 04:00 PM",
+      "title": "Panel Discussion - Problem Solving !",
+      "description": "Collaborative deep-dive into real-world challenges with innovative solutions from cross-functional experts",
+      "speaker": "Domain Experts Panel"
+    },
+    {
+      "id": 11,
+      "time": "04:00 PM - 04:30 PM",
+      "title": "Awards - Part 2",
+      "description": "Continuing the celebration of excellence with more accolades for our high-impact contributors",
+      "speaker": "Executive Leadership"
+    }
+  ]
+}
